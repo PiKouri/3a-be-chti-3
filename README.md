@@ -24,5 +24,5 @@ Pour le vérifier, placer un point d'arrêt à l'instruction `score[i]++` du cod
 
 Dans le **logic analyser**, afficher les variables `occurence[0]` à `occurence[5]`. Laisser le programme tourner pendant quelque temps. On peut alors observer des pics, chaque pic correspondant à la détection de l'un des tirs. Pour `Duree_Ech_ticks = 0x52` (dans le code c, c'est la valeur 82 = 0x52 dans l'instruction `Init_TimingADC_ActiveADC_ff( ADC1, 82 );`) , on vérifie que les graphes ont la même forme que dans le ficher GFSSP72.pdf.
 
-![Occurences obtenues](https://github.com/PiKouri/3a-be-chti3/blob/master/Screenshots/Occurences.PNG?raw=true)
+![Occurences obtenues](https://github.com/PiKouri/3a-be-chti-3/blob/master/Screenshots/Occurences.png)
 
