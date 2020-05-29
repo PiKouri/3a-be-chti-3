@@ -1,0 +1,16 @@
+# ignores everything
+/*
+# but do not ignore the .gitignore file
+!.gitignore
+!*.c
+!*.s
+!*.asm
+!*.md
+!*.png
+!*.uvla
+!*.uvprojx
+!Screenshots
+!Sys
+!Ressources
+!GFSSP72
+!Obj*
